@@ -1,5 +1,5 @@
 
-Certainly! If you're developing a repository for brightness control using OpenCV (cv2), here's a possible README summary: <hr>
+<hr>
 
 **1)Brightness Control with OpenCV (cv2)** <hr>
 **Overview** <br>
