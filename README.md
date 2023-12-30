@@ -29,3 +29,8 @@ This repository provides a comprehensive solution for speech-to-text conversion 
 **Audio Processing:** Leverages PyDub and other tools for various audio processing tasks, including format conversion, volume adjustment, and more.<br>
 **Easy Integration:** Simple and well-documented interfaces for quick integration into your applications.<br>
 **Customizable Parameters:** Fine-tune speech recognition parameters and audio processing settings to suit your needs.<br>
+
+  You can now view your Streamlit app in your browser.
+
+  Local URL: http://localhost:8503 <br>
+  Network URL: http://192.168.29.57:8503
